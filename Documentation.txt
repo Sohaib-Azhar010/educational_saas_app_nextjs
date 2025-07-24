@@ -4,3 +4,11 @@ npx create-next-app@latest ./
 
 we will choose TypeScript, TailwindCss, Eslint , App router and Turbopack during installation
 
+===============
+Tools 
+
+TailwindCSS , shadcn ui
+Clerk for Authentication and Billing
+Vapi (Voice AI agent)
+Supabase
+===============
