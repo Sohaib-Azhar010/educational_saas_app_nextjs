@@ -10,5 +10,6 @@ Tools
 TailwindCSS , shadcn ui
 Clerk for Authentication and Billing
 Vapi (Voice AI agent)
+Sentry (to minimize errors,monitor performance)
 Supabase
 ===============
