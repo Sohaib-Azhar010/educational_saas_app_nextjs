@@ -1,0 +1,6 @@
+create folder for project 
+
+npx create-next-app@latest ./ 
+
+we will choose TypeScript, TailwindCss, Eslint , App router and Turbopack during installation
+
