@@ -39,7 +39,7 @@ const Page = () => {
         
       </section>
 
-      <section className="home-section">
+      <section className="home-section mb-5">
         <CompanionsList
         title="Recently Completed Sessions"
         companions={recentSessions}
