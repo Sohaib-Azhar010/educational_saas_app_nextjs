@@ -13,3 +13,7 @@ Vapi (Voice AI agent)
 Sentry (to minimize errors,monitor performance)
 Supabase
 ===============
+
+Setup Clerk and Supabase watching the video 
+
+https://youtu.be/XUkNR-JfHwo?feature=shared
